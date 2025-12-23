@@ -18,12 +18,15 @@ Enabling insights such as revenue trends, churn analysis, and user engagement
 │   ├── users.csv
 │   ├── subscriptions.csv
 │   └── events_saas.csv
+
 │
 ├── sql/
 │   └── SaaS_Data_Cleaning_SQL_Server.sql
+
 │
 ├── powerbi/
 │   └── SaaS_Analytics_Dashboard.pbix
+
 │
 └── README.md
 
