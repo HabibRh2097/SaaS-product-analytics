@@ -13,6 +13,7 @@ Preparing structured tables for analytics
 Enabling insights such as revenue trends, churn analysis, and user engagement
 
 🗂️ **Project Structure**
+
 ├── data/
 │   ├── users.csv
 │   ├── subscriptions.csv
