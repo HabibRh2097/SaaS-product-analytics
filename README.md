@@ -1,5 +1,6 @@
-SaaS Data Cleaning & Analytics Project (SQL Server + Power BI)
-📌 Project Overview
+#SaaS Data Cleaning & Analytics Project (SQL Server + Power BI)
+
+📌 **Project Overview**
 
 This project demonstrates an end-to-end data analytics workflow for a SaaS business, starting from raw CSV files and ending with clean, analysis-ready data used for Power BI dashboards.
 
@@ -11,7 +12,7 @@ Preparing structured tables for analytics
 
 Enabling insights such as revenue trends, churn analysis, and user engagement
 
-🗂️ Project Structure
+🗂️ **Project Structure**
 ├── data/
 │   ├── users.csv
 │   ├── subscriptions.csv
@@ -25,8 +26,9 @@ Enabling insights such as revenue trends, churn analysis, and user engagement
 │
 └── README.md
 
-🧾 Data Description
-1️⃣ Users
+🧾 **Data Description**
+
+**Users**
 
 Contains user signup information:
 
@@ -38,7 +40,7 @@ country
 
 plan
 
-2️⃣ Subscriptions
+**Subscriptions**
 
 Tracks subscription and revenue details:
 
@@ -52,7 +54,7 @@ revenue
 
 churn_date
 
-3️⃣ Events
+**Events**
 
 Captures product usage events:
 
@@ -62,7 +64,7 @@ event_date
 
 event_type
 
-🧹 Data Cleaning (SQL Server)
+**Data Cleaning (SQL Server)**
 
 The SQL script performs the following tasks:
 
@@ -84,14 +86,15 @@ subscriptions_clean
 
 events_clean
 
-📄 File:
+**File:**
+
 sql/SaaS_Data_Cleaning_SQL_Server.sql
 
 📊 Power BI Dashboards
 
 The cleaned data is used to build interactive dashboards in Power BI, including:
 
-📈 Executive Overview
+**Executive Overview**
 
 Total Users
 
@@ -151,6 +154,10 @@ Load cleaned tables into Power BI
 
 Build or refresh dashboards
 
-📬 Contact
+**Contact**
 
-If you have questions or feedback, feel free to reach out or connect with me on GitHub / LinkedIn.
+If you have questions or feedback, feel free to reach out or connect with me on 
+
+Email : rahouhabib2@gmail.com
+
+LinkedIn : https://www.linkedin.com/in/habib-rahou-921823165/
